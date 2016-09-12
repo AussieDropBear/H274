@@ -4,7 +4,7 @@ Java FileReader Problem
 // Write a program that reads the file phillip.txt and:                    //
 //                                                                         //
 // 1.  Read a text file using BufferedReader. (5 marks)                    //
-// 2.  Print a sorted list of the words in the file and a count of the     // 
+// 2.  Print a sorted list of the words in the file and a count of the     //
 //     number of occurrences of each word (words are only printed once)    //
 //     when the count is greater than 500. A word is a section of text     //
 //     delimited by at least one blank either end. (5 Marks)               //
@@ -16,5 +16,5 @@ Java FileReader Problem
 //     text then add these up and print the total. You must use an         //
 //     exception when doing this. (3 Marks)                                //
 // 7.  Print a sorted list of the number of occurrences of each letter     //
-//     (ignoring case). (3 Marks)                                          // 
+//     (ignoring case). (3 Marks)                                          //
 /////////////////////////////////////////////////////////////////////////////
