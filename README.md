@@ -1,6 +1,6 @@
 # H274
 Java FileReader Problem
-////////////////////////////// PROBLEM STATEMENT ////////////////////////////
+////////////////////////////// PROBLEM STATEMENT ////////////////////////////<BR>
 // Write a program that reads the file phillip.txt and:                    //
 //                                                                         //
 // 1.  Read a text file using BufferedReader. (5 marks)                    //
